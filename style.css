@@ -1,0 +1,95 @@
+#heading
+{
+background-color:black;
+
+}
+#mysite
+{
+color:white;
+padding:20px;
+}
+
+#firstrow
+{
+margin-right:-21px;
+margin-top:13px;
+background-color: #F0F0F0;
+padding:20px;
+border:1px solid #ccffff;
+
+}
+#secondrow
+{
+margin-right:-21px;
+margin-top:13px;
+}
+
+#second
+{
+margin-left:3px;
+margin-right:-15px;
+margin-top:13px;
+background-color:#F0F0F0;
+padding:10px;
+border:1px solid #ccffff;
+
+
+}
+.more
+{
+background-color:black;
+color:white;
+padding-right:28px;
+padding-left:28px;
+padding-top: 7px;
+padding-bottom: 7px;
+float:right;
+
+}
+ul{
+    padding-left: 0px;
+}
+li 
+{
+list-style:none;
+color:black;
+
+}
+
+#third
+{
+border:2px solid grey;
+padding:30px;
+margin-left:3px;
+
+}
+#submit
+{
+background-color:black;
+color:white;
+text-decoration:none;
+padding-right:28px;
+padding-left:28px;
+padding-top: 7px;
+padding-bottom: 7px;
+float:right;
+
+}
+
+.footer {
+   padding:5px;
+   bottom: 0;
+   width: 100%;
+   background-color: grey;
+   color: black;
+   text-align: left;
+   padding-left:25px;
+}
+p
+{
+text-align:justify;
+}
+.headings{
+    font-weight: bolder;
+}
+
